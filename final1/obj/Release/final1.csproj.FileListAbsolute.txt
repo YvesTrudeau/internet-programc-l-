@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.Giriş.resources
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.Form3.resources
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.giris.resources
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.SigortaBölümü.resources
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.Poliçebölümü.resources
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.Musteribolumu.resources
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.Properties.Resources.resources
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\final1\final1\obj\Release\final1.csproj.CoreCompileInputs.cache
